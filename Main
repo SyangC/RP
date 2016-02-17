@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel='stylesheet' type='text/css' href='RP.css'>
+	</head>
+  
+	<body>
+		<div class="header">
+		<div class="container">
+			<h1>RESTORE PILATES</h1>
+			<p>ENPOWER THE BODY, ENRICH THE SOUL</p>
+        <div class="button">
+        	<a href="learn.html" class="btn">Learn More</a>
+        </div>
+		</div>
+    </div>
+
+	</body>
+</html>
