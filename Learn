@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel='stylesheet' type='text/css' href='Learn.css'>
+	</head>
+
+	<body>
+		<div class="header">
+			<div class="container">
+				<h1>WHAT WE OFFER</h1>
+				<table cellspacing="30">
+					<tr>
+						<th><a href="" class="classes">MIXED ABILLITY CLASSES</a></th>
+						<th><a href="" class="classes">ONE TO ONE CLASSES</a></th>
+						<th><a href="" class="classes">PARENT & BABY CLASSES</a></th>
+					</tr>
+					<tr>
+						<td>Offers a variety of options, for toning, injury avoidance and rehabilitation.</td>
+						<td>Expertise and quality of the group classes, tailored to your exact needs.</td>
+						<td>Take care of your body whilst spending time with your baby in a relaxing environment</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		
+		    <div class="nav">
+				<div class="container">
+					<ul class="bar">
+						<li><a href="Main.html" class="menu">HOME</a></li>
+						<li><a href="Schedule.html" class="menu">SCHEDULE</a></li>
+						<li><a href="Bookings.html" class="menu">BOOKINGS</a></li>
+						<li><a href="About.html" class="menu">ABOUT</a><li>
+						<li><a href="Gallery.html" class="menu">GALLERY</a></li>
+						<li><a href="Contact.html" class="menu">CONTACT</a><li>
+					</ul>
+				</div>
+			</div>
+	</body>
