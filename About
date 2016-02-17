@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel='stylesheet' type='text/css' href='About.css'>
+	</head>
+	
+	<body>
+		<div class="header">
+			<div class="container">
+				<h1>Lara Stavrinou</h1>
+				<p>Lara is a certified Pilates Instructor with a passion for helping clients improve their flexibility, fitness and posture. She delivers classes and one-to-one sessions with carefully structured and controlled movements for whole body and core strength, coordination and improved performance in daily activities and sports. Her sessions are for everyone – whether looking to recover from or prevent injury, build strength, increase flexibility, or tone up!</p>
+				<p></p>
+			</div>
+		</div>
+		
+	    <div class="nav">
+			<div class="container">
+				<ul class="bar">
+					<li><a href="Main.html" class="menu">HOME</a></li>
+					<li><a href="Schedule.html" class="menu">SCHEDULE</a></li>
+					<li><a href="Bookings.html" class="menu">BOOKINGS</a></li>
+					<li><a href="About.html" class="menu">ABOUT</a><li>
+					<li><a href="Gallery.html" class="menu">GALLERY</a></li>
+					<li><a href="Contact.html" class="menu">CONTACT</a><li>
+				</ul>
+			</div>
+		</div>
+	</body>
